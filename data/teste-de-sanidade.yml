@@ -1,0 +1,9 @@
+train: /content/yolov/data/teste-de-sanidade.txt
+val: /content/yolov/data/teste-de-sanidade.txt
+test: /content/yolov/data/teste-de-sanidade.txt
+
+# number of classes
+nc: 2
+
+# class names
+names: ["SEM MASCARA","COM MASCARA"]
