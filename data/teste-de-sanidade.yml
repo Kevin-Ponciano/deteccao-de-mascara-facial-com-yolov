@@ -6,4 +6,4 @@ test: /content/yolov/data/teste-de-sanidade.txt
 nc: 2
 
 # class names
-names: ["SEM MASCARA","COM MASCARA"]
+names: ["COM-MASCARA","SEM-MASCARA"]
