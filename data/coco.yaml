@@ -1,6 +1,6 @@
-train: ./treino/treino.txt
-val: ./validacao/validacao.txt
-test: ./teste/teste.txt
+train: ./data/treino/treino.txt
+val: ./data/validacao/validacao.txt
+test: ./data/teste/teste.txt
 
 nc: 2
 
