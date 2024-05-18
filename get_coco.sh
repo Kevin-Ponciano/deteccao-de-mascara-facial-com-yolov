@@ -17,6 +17,6 @@ find_jpg_files() {
 CURRENT_PATH=$(pwd)
 
 # Chamadas da função para diferentes diretórios e arquivos de saída
-find_jpg_files "$CURRENT_PATH/yolov/data/teste" "teste.txt"
-find_jpg_files "$CURRENT_PATH/yolov/data/treino" "treino.txt"
-find_jpg_files "$CURRENT_PATH/yolov/data/validacao" "validacao.txt"
+find_jpg_files "$CURRENT_PATH/data/teste" "teste.txt"
+find_jpg_files "$CURRENT_PATH/data/treino" "treino.txt"
+find_jpg_files "$CURRENT_PATH/data/validacao" "validacao.txt"
